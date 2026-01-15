@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: dbtt
+    database: BANKING_DB
+    schema: bank
+    tables:
+      - name: customer
